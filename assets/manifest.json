@@ -1,0 +1,124 @@
+[
+ {
+  "name": "Minecraftia",
+  "file": "Minecraftia.ttf",
+  "bytes": 70324,
+  "kind": "ttf"
+ },
+ {
+  "name": "Tahoma",
+  "file": "Tahoma.ttf",
+  "bytes": 292976,
+  "kind": "ttf"
+ },
+ {
+  "name": "Smallest Pixel-7",
+  "file": "Smallest_Pixel-7.ttf",
+  "bytes": 25600,
+  "kind": "ttf"
+ },
+ {
+  "name": "Consolas Bold",
+  "file": "Consolas_Bold.ttf",
+  "bytes": 368720,
+  "kind": "ttf"
+ },
+ {
+  "name": "Colorpicker Valsat",
+  "file": "Colorpicker_Valsat.png",
+  "bytes": 50750,
+  "kind": "png",
+  "dims": "250x250"
+ },
+ {
+  "name": "Colorpicker Hue2",
+  "file": "Colorpicker_Hue2.png",
+  "bytes": 1871,
+  "kind": "png",
+  "dims": "256x256"
+ },
+ {
+  "name": "Colorpicker Transparency",
+  "file": "Colorpicker_Transparency.png",
+  "bytes": 443,
+  "kind": "png",
+  "dims": "22x9"
+ },
+ {
+  "name": "Scrollbar",
+  "file": "Scrollbar.png",
+  "bytes": 72,
+  "kind": "png",
+  "dims": "20x20"
+ },
+ {
+  "name": "Gradient 9",
+  "file": "Gradient_9.png",
+  "bytes": 415,
+  "kind": "png",
+  "dims": "10x10"
+ },
+ {
+  "name": "Expand Arrow 3",
+  "file": "Expand_Arrow_3.png",
+  "bytes": 438,
+  "kind": "png",
+  "dims": "8x6"
+ },
+ {
+  "name": "Ellipsis",
+  "file": "Ellipsis.png",
+  "bytes": 376,
+  "kind": "png",
+  "dims": "11x4"
+ },
+ {
+  "name": "Minus Icon",
+  "file": "Minus_Icon.png",
+  "bytes": 365,
+  "kind": "png",
+  "dims": "5x3"
+ },
+ {
+  "name": "Plus Icon",
+  "file": "Plus_Icon.png",
+  "bytes": 412,
+  "kind": "png",
+  "dims": "9x9"
+ },
+ {
+  "name": "Gradient",
+  "file": "Gradient.png",
+  "bytes": 2466,
+  "kind": "png",
+  "dims": "500x500"
+ },
+ {
+  "name": "Colorpicker Shadow",
+  "file": "Colorpicker_Shadow.png",
+  "bytes": 385,
+  "kind": "png",
+  "dims": "22x9"
+ },
+ {
+  "name": "Colorpicker Shadow 2",
+  "file": "Colorpicker_Shadow_2.png",
+  "bytes": 388,
+  "kind": "png",
+  "dims": "22x9"
+ },
+ {
+  "name": "Palette Icon",
+  "file": "Palette_Icon.png",
+  "bytes": 608,
+  "kind": "png",
+  "dims": "9x9"
+ },
+ {
+  "name": "Folder Icon",
+  "file": "Folder_Icon.png",
+  "bytes": 492,
+  "kind": "png",
+  "dims": "8x7"
+ }
+]
